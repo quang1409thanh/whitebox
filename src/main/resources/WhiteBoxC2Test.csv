@@ -1,0 +1,12 @@
+type, value, expected_output
+1,-5,Invalid error
+1,20,Gia Dinh: 37324
+1,79,Gia Dinh: 149249
+1,123,Gia Dinh: 241274
+1,214,Gia Dinh: 453241
+1,304,Gia Dinh: 708454
+1,455,Gia Dinh: 1190187
+2,344,San Xuat: 645701
+3,50,Hanh Chinh: 104760
+4,421,Kinh Doanh: 1248551
+10,214,Invalid error
